@@ -1,5 +1,5 @@
 # Reto08 #
 
 Tecnicas y programacion UdeA
-Emmanuel Bustamante
+Emmanuel Bustamante &
 Alejandro Becerro
